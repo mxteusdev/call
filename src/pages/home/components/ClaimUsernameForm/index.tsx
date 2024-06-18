@@ -32,6 +32,8 @@ export function ClaimUsernameForm() {
     console.log(data)
   }
 
+  // fix this shit motherfucker
+
   return (
     <>
       <Form as="form" onSubmit={handleSubmit(handleClaimUsername)}>
