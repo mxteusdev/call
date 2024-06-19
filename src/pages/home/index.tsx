@@ -5,6 +5,8 @@ import { Container, Hero, Preview } from './styles'
 import previewImage from '../../assets/app-preview.png'
 import { ClaimUsernameForm } from './components/ClaimUsernameForm'
 
+// home
+
 export default function Home() {
   return (
     <Container>
