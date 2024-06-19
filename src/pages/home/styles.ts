@@ -9,6 +9,8 @@ export const Container = styled('div', {
   gap: '$20',
 })
 
+// depois tirar
+
 export const Hero = styled('div', {
   maxWidth: 480,
   padding: '0 $10',
